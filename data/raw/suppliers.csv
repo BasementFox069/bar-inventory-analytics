@@ -1,0 +1,6 @@
+supplier_id,name,lead_time_days,on_time_rate,min_order_qty
+1,Supplier 1,11,0.811,10
+2,Supplier 2,8,0.725,20
+3,Supplier 3,12,0.815,30
+4,Supplier 4,9,0.783,40
+5,Supplier 5,11,0.736,50

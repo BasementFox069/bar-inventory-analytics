@@ -1,0 +1,21 @@
+product_id,sku,product_name,category,unit_cost,unit_price,supplier_id
+1,SKU001,Tanqueray Gin 700ml,Spirits,21.27,56.5,5
+2,SKU002,Bombay Sapphire Gin 700ml,Spirits,6.41,52.01,2
+3,SKU003,Johnnie Walker Black Label 750ml,Spirits,23.05,46.26,2
+4,SKU004,Jameson Irish Whiskey 700ml,Spirits,28.46,35.33,4
+5,SKU005,Havana Club Rum 1L,Spirits,5.02,58.56,2
+6,SKU006,Absolut Vodka 1L,Spirits,29.81,49.08,2
+7,SKU007,Patron Silver Tequila 750ml,Spirits,20.44,44.64,4
+8,SKU008,Aperol 700ml,Spirits,20.29,35.4,4
+9,SKU009,Martini Rosso Vermouth 1L,Spirits,5.18,40.77,1
+10,SKU010,Prosecco Brut 750ml,Spirits,5.58,41.03,5
+11,SKU011,Coca-Cola 330ml Can,Mixers,18.12,52.08,5
+12,SKU012,Fever-Tree Tonic Water 200ml,Mixers,15.0,50.25,2
+13,SKU013,Red Bull 250ml Can,Mixers,6.17,55.83,5
+14,SKU014,Fresh Orange Juice 1L,Mixers,29.34,39.33,2
+15,SKU015,Soda Water 1L,Mixers,10.82,44.78,1
+16,SKU016,Lemon Wedges Pack,Essentials,7.27,39.56,4
+17,SKU017,Mint Leaves Bunch,Essentials,20.46,53.88,4
+18,SKU018,Cocktail Cherries Jar,Essentials,14.56,45.63,4
+19,SKU019,Ice Bag 5kg,Essentials,29.58,40.2,5
+20,SKU020,Paper Straws (Box of 100),Essentials,16.67,49.19,1
